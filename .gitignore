@@ -66,3 +66,5 @@ jobs/*
 database.r2.old.db
 database.r3.old.db
 database.r4.old.db
+scripts/client_connection_info.json
+scripts/jws_keys.json
